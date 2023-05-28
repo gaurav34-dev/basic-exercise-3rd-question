@@ -14,5 +14,3 @@ class Main {
 }
 }
 
-
-//swap two numbers without third variable
